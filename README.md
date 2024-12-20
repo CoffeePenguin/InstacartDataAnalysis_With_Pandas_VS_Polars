@@ -4,7 +4,7 @@
 
 Google Colaboratoryを環境を用いることによって、誰でも簡単にデータ分析を行いながらpandasとpolarsの処理速度の比較ができます。
 
-分析対象のデータセットとして、「instacart-market-basket-analysis」コンペで用いられたデータセットを利用します。
+分析対象のデータセットとして、Kaggleコンペ「[instacart-market-basket-analysis](https://www.kaggle.com/competitions/instacart-market-basket-analysis)」のデータセットを利用します。
 
 データセットは、[kaggle-api](https://github.com/Kaggle/kaggle-api)経由で取得します。
 
